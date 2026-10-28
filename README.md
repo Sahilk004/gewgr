@@ -7,7 +7,7 @@ A small web app for a day-ahead power buyer. It answers two questions for **Janu
 
 Data: Elexon BMRS `FUELHH` (actual wind) and `WINDFOR` (wind forecasts).
 
-**Live app:** _add your deployed URL here_
+**Live app:** https://gewgr-5dox.vercel.app/
 
 > **AI disclosure:** this project was built with assistance from Claude (Anthropic) for planning, code generation and review. All code was run, reviewed and understood by the author.
 
