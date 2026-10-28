@@ -1,0 +1,12 @@
+{
+  "source": "elexon",
+  "datasets": [
+    "FUELHH",
+    "WINDFOR"
+  ],
+  "fetched_at": "2026-10-28T01:57:54.528254+00:00",
+  "delivery_start": "2026-01-01",
+  "delivery_end": "2026-01-31",
+  "n_actuals": 1488,
+  "n_forecasts": 19272
+}
